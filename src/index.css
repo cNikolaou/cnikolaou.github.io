@@ -1,0 +1,26 @@
+body {
+    background-color: #e5dace;
+    color: #3f3931;
+    font-family: 'Archivo', sans-serif;
+}
+
+a {
+    text-decoration: underline;
+    color: #3f3931;
+}
+
+a:hover {
+    color: #6d7973;
+}
+
+#topBox {
+    margin-top: 5rem;
+}
+
+#mainNavbar {
+    background-color: #6d7973;
+}
+
+.icons {
+    color: #3f3931;;
+}
