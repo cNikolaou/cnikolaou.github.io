@@ -4,12 +4,25 @@ body {
     font-family: 'Archivo', sans-serif;
 }
 
-a {
+.nav-link {
+    color: #e5dacea1;
+}
+
+.nav-link:hover {
+    color: #e5dace;
+}
+
+.active-nav {
+    color: #e5dace;
+}
+
+
+.text-link {
     text-decoration: underline;
     color: #3f3931;
 }
 
-a:hover {
+.text-link:hover {
     color: #6d7973;
 }
 
