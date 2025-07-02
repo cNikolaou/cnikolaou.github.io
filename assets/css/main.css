@@ -36,3 +36,7 @@ body {
 .icons {
   color: #3f3931;
 }
+
+.sections div {
+  margin-bottom: 5em;
+}

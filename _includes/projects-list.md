@@ -1,0 +1,5 @@
+- [**atql**](https://github.com/cNikolaou/atql) - Language to query attestations on the [EAS](https://attest.org/) on any OP chain.
+- [**attestation-kit**](https://github.com/cNikolaou/attestation-kit) - Library that allows to manage [EAS](https://attest.org/) attestations (create, update, remove) on any program (commandline tool, frontend library, etc).
+- [**scaf**](https://github.com/cNikolaou/scaf) - Environment for building applications with Move language for the Sui network.
+- [**RIME**](https://github.com/horizon-institute/rime) - Tool for interactive and anonymized exploration of mobile data.
+- **Multisig FRAME package** - Implementation of a multisig account with Polkadot's [FRAME Substrate](https://github.com/paritytech/polkadot-sdk) (private repo).

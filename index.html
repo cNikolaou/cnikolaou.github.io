@@ -15,7 +15,7 @@ title: Christos Nikolaou - Home
 </div>
 
 <div class="row justify-content-between">
-  <div class="col-8">
+  <div class="col-8 sections">
     <div>
       <h2>About</h2>
 
@@ -51,6 +51,12 @@ title: Christos Nikolaou - Home
         </a>
         .
       </p>
+    </div>
+
+    <div>
+      <h2>Open source projects</h2>
+      {% capture projects %}{% include projects-list.md %}{% endcapture %} {{
+      projects | markdownify }}
     </div>
   </div>
 
