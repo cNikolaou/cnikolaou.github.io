@@ -1,39 +1,38 @@
 body {
-    background-color: #e5dace;
-    color: #3f3931;
-    font-family: 'Archivo', sans-serif;
+  background-color: #e5dace;
+  color: #3f3931;
+  font-family: 'Archivo', sans-serif;
 }
 
 .nav-link {
-    color: #e5dacea1;
+  color: #e5dacea1;
 }
 
 .nav-link:hover {
-    color: #e5dace;
+  color: #e5dace;
 }
 
 .active-nav {
-    color: #e5dace;
+  color: #e5dace;
 }
 
-
 .text-link {
-    text-decoration: underline;
-    color: #3f3931;
+  text-decoration: underline;
+  color: #3f3931;
 }
 
 .text-link:hover {
-    color: #6d7973;
+  color: #6d7973;
 }
 
 .topBox {
-    margin-top: 5rem;
+  margin-top: 5rem;
 }
 
 #mainNavbar {
-    background-color: #6d7973;
+  background-color: #6d7973;
 }
 
 .icons {
-    color: #3f3931;;
+  color: #3f3931;
 }
