@@ -1,2 +1,3 @@
 # Ignore DS_Store files of MacOS
 *.DS_Store
+.ruby-version
